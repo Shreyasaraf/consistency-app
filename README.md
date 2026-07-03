@@ -1,1 +1,1 @@
-# shreya-consistency-app
+# consistency-app
